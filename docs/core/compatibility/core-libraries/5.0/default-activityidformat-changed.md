@@ -37,7 +37,7 @@ W3C 活動識別碼格式是在 .NET Core 3.0 中引進，作為階層式識別�
   </ItemGroup>
   ```
 
-- 在檔案的 *runtimeconfig.js* 。
+- 在 *runtimeconfig.json* 檔案。
 
   ```json
   {
